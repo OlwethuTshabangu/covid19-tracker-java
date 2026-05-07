@@ -6,7 +6,7 @@ Java application developed for the South African Department of Health to retriev
 
 - Java
 - JDBC
-- Microsoft SQL Server
+- Microsoft SQL Server 
 - Object-Oriented Programming (OOP)
 - ArrayList
 - Serializable Interface
